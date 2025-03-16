@@ -20,10 +20,13 @@ A simple Airline Management System to simulate basic operations such as flight b
 
 ## 📂 Project Structure
 
-/AirlineManagementSystem ┣ AirlineManagementSystem.cpp ┣ README.md ┗ (other files if any)
-
-
-## 🚀 How to Run
+📦 AirlineManagementSystem
+ ┣ 📜 AirlineManagementSystem.cpp       // Main C++ source code
+ ┣ 📜 README.md                         // Project documentation
+ ┣ 📜 LICENSE                           // MIT License file
+ ┣ 📁 docs/                             // Documentation (optional)
+ ┣ 📁 assets/                           // Images, icons, or other assets (optional)
+ ┗ 📁 build/                            // Compiled binaries or build files (optional)
 
 
 ## 🚀 How to Run
