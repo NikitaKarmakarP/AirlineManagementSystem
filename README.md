@@ -11,12 +11,27 @@ A simple Airline Management System to simulate basic operations such as flight b
 - Display booking summary
 - Exit system
 
+## 🎯 Why I Built This
+
+I created this project to strengthen my understanding of **Object-Oriented Programming (OOP)** and how real-world systems, like airline booking platforms, operate behind the scenes. 
+
+While working on this project, I aimed to:
+
+- Simulate a real-life ticket booking and reservation system.
+- Practice building a modular and extensible C++ application.
+- Enhance my skills in solving real-world problems through clean code and design principles.
+- Build a portfolio project that demonstrates my ability to apply programming concepts to real-world scenarios, useful for internships and job opportunities.
+
+
 ## 🛠️ Technologies Used
 
-- C++ (Object-Oriented Programming)
-- Standard Template Library (STL)
-- File Handling (if applicable)
-- Console-based UI
+- **C++**: Core programming language used to implement the entire system.
+- **Object-Oriented Programming (OOP)**: Applied concepts like classes, inheritance, encapsulation, and abstraction.
+- **File Handling** *(optional)*: To store and retrieve booking data locally (can be added for future enhancements).
+- **Standard Template Library (STL)**: Utilized STL containers where applicable (e.g., vectors).
+
+> 🚀 Future scope includes integrating with databases (MySQL) and adding GUI frameworks like Qt for a richer user experience.
+
 
 ## 📂 Project Structure
 
